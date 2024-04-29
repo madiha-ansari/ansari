@@ -1,0 +1,38 @@
+.card{
+
+width: 1150px;
+min-height: 1130px;
+padding: 90px 0px 0px 0px;margin-left: 5%;
+}
+
+.first-card,h1,button:hover{
+    justify-content: center;
+    color: blue;
+}
+
+
+/* flexbox sir saad */
+.main{
+    display: flex;
+    background-color: black;
+    padding: 15px;
+    color: black;
+    justify-content: flex-end;
+}
+
+.one{
+    padding: 5px;
+    background-color: pink;
+}
+.two{
+    background-color: green;
+}
+.three{
+    background-color: orangered;
+}
+.four{
+    background-color: red;
+}
+.five{
+    background-color: grey;
+}
